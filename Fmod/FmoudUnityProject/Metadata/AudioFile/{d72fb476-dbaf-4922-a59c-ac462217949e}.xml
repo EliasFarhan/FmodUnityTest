@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.09.00">
+    <object class="AudioFile" id="{d72fb476-dbaf-4922-a59c-ac462217949e}">
+        <property name="assetPath">
+            <value>SBP_Duel of Scales_Drawbridge (Loop).wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.1252154195011337</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{fc8a668c-b1e4-4647-9f1f-9aa1ed884f1f}</destination>
+        </relationship>
+    </object>
+</objects>
